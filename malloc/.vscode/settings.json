@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "bucket.h": "c",
+        "string.h": "c",
+        "err.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
